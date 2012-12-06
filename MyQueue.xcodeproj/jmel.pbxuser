@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1DB633231670471C00FEC86B /* MyQueue */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* MyQueue */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* MyQueue */,
+		);
+		codeSenseManager = 1DB633281670473B00FEC86B /* Code sense */;
+		executables = (
+			1DB633231670471C00FEC86B /* MyQueue */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 376456988;
+			PBXWorkspaceStateSaveDate = 376456988;
+		};
+		sourceControlManager = 1DB633271670473B00FEC86B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* MyQueue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 245}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	1DB633231670471C00FEC86B /* MyQueue */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyQueue;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1DB633271670473B00FEC86B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1DB633281670473B00FEC86B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1DB6332B1670484700FEC86B /* Queue.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 299}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRange = "{27, 316}";
+		};
+	};
+	1DB6332C1670484700FEC86B /* Queue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* MyQueue */ = {
+		activeExec = 0;
+		executables = (
+			1DB633231670471C00FEC86B /* MyQueue */,
+		);
+	};
+}
